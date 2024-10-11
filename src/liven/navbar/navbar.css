@@ -1,0 +1,21 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+}
+.navLogo {
+    height: 30px; 
+    width: auto; 
+}
+
+.custom-button {
+    background-color: #EB4B6E; 
+    font-size: 10px;
+    color: white; 
+    border: none; 
+    border-radius: 20px; 
+    width: 65px;
+    height: 25px;
+    padding:5px 10px;
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+  }

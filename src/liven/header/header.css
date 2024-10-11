@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    margin-top: 25px;
+  }
+  
+  .headerInfo {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 8px; 
+    color:#777C80;
+  }
+  
+  .mainHeader {
+    font-size: 28px;
+    font-weight: 600;
+    width: 100%; 
+    text-align: right; 
+    margin-top: auto; 
+  }
+  

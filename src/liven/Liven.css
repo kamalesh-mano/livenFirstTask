@@ -1,0 +1,25 @@
+.liven {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+.content {
+  width: 90%;
+  padding: 0 16px; 
+}
+
+@media (min-width: 500px) {
+  .content {
+    width: 500px; 
+  }
+}
+
+.header {
+  width: 200px; 
+  margin: 0 auto;
+}
+
+.container {
+  margin: 0 auto;
+}
