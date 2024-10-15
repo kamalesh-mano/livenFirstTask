@@ -25,7 +25,12 @@
     font-size: 10px; 
     z-index: 1;
 }
-
+.buyInfo{
+    width:40px;
+}
+.bonusInfo{
+    width:40px;
+}
 .buyLabel {
     font-size: 12px;
     font-weight: 400;
@@ -40,10 +45,13 @@
     font-size: 12px;
     font-weight: 400;
     color: #7DBEB5;
+    text-align: end;
 }
 
 .bonusValue {
     font-size: 22px;
     font-weight: 600;
     color: #7DBEB5;
+    text-align: end;
+
 }
