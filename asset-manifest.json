@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livenFirstRound/static/css/main.fbd19131.css",
+    "main.js": "/livenFirstRound/static/js/main.0bb9a93a.js",
+    "static/js/453.cea85615.chunk.js": "/livenFirstRound/static/js/453.cea85615.chunk.js",
+    "index.html": "/livenFirstRound/index.html",
+    "main.fbd19131.css.map": "/livenFirstRound/static/css/main.fbd19131.css.map",
+    "main.0bb9a93a.js.map": "/livenFirstRound/static/js/main.0bb9a93a.js.map",
+    "453.cea85615.chunk.js.map": "/livenFirstRound/static/js/453.cea85615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd19131.css",
+    "static/js/main.0bb9a93a.js"
+  ]
+}
